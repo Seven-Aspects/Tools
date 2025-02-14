@@ -77,9 +77,9 @@ def confirm(message: str, speed: float = 0.015):
         return False
 class System:
     def __init__(self):
-        self.project_link = "https://github.com/Danex-Exe/SevenAspectsTool.git"
-        self.default_setting_link = "https://raw.githubusercontent.com/Danex-Exe/SevenAspectsTool/refs/heads/main/Attack/version.json"
-        self.version_link = "https://api.github.com/repos/Danex-Exe/SevenAspectsTool/tags"
+        self.project_link = "https://github.com/Seven-Aspects/Tools.git"
+        self.default_setting_link = "https://raw.githubusercontent.com/Seven-Aspects/Tools/refs/heads/main/Attack/version.json"
+        self.version_link = "https://api.github.com/repos/Seven-Aspects/Tools/tags"
 def check_update(compulsion : bool = False):
     """
         check_update(setting) - Функция проверки наличия нового обновления
