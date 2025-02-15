@@ -3,8 +3,6 @@
     <a href="/README.md">English</a>
     <a href="/README_ru.md">Русский</a>
     <br><br>
-    <img src="https://github.com/user-attachments/assets/9b694a20-7473-4ab5-a972-edda0c085de2" align="center" width="400" height="200" />
-    <img src="https://github.com/user-attachments/assets/86685579-d395-4c09-860b-9082a397921a" align="center" width="400" height="200" />
 </div>
 
 ## Usage
